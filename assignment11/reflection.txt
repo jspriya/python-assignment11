@@ -1,4 +1,4 @@
-1. 2. Reflect on the differences between static and interactive visualizations.
+1. Reflect on the differences between static and interactive visualizations.
 
 Static visualizations, such as bar charts and line plots provide a fixed view of 
 the data.They are useful for simple analysis, reporting, and situations where the
@@ -21,4 +21,4 @@ without needing to manually reprocess or replot data.
 
 In professional settings, interactive tools like Plotly improve data communication by making complex 
 datasets more accessible and intuitive. Instead of relying on static reports, stakeholders can explore
- the data themselves, which leads to better understanding, faster insights, and more informed decisions. These tools also make presentations more engaging and help bridge the gap between technical and non-technical audiences.
+the data themselves, which leads to better understanding, faster insights, and more informed decisions. These tools also make presentations more engaging and help bridge the gap between technical and non-technical audiences.
