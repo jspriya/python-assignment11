@@ -23,7 +23,7 @@ conn.close()
 
 # Plot
 plt.figure(figsize=(10, 6))
-plt.bar(employee_results["last_name"], employee_results["revenue"])
+plt.bar(employee_results["last_name"], employee_results["revenue"], color="skyblue")
 
 plt.title("Employee Revenue")
 plt.xlabel("Employee Last Name")
